@@ -1,0 +1,184 @@
+https://github.com/vimleshtech/python_django_jan19
+==================================================
+
+Today's Topics
+================
+-Overview Python and Python's Applications
+-Python Environment and Version
+
+-HelloWorld/First Program
+-Variable and Data Type
+-Input/Output and other functions
+-Operator
+-Condition
+
+
+Overview Python and Python's Applications
+============================================
+-Python is open source (free) programing langauge 
+-Python is platefrom independent (works on all operating system)
+-Python is interpreter based programing langauge (line by line 	execution)
+-Python is indentation based programing language 
+	
+Python's Applications
+=========================
+Data Analytics
+	-Machine Learning
+	-Data Science
+	-AI
+	-Automatinon
+Web Devepment
+	-Flask
+	-DJango 
+	
+SOftware Testing
+	-Selenium 
+	
+IT Infra
+	-Ethical Hacking
+	-IT Secrurity
+	-Automation 
+
+Python Environment and Version
+================================
+Version:
+	3.7
+	3.6	**
+	3.5
+	3.4
+	..
+	...
+	2.7
+	
+
+Editor:
+	-Python Shell/Command Prompt
+		>>>
+	-Python IDLE/GUI 
+		python code should be saved with .py extension
+	-Other Editor
+		-VSCode		*
+		-Anoconda	*
+		-Spyder		*
+		-PyCharm	paid for c.
+		-Sublime	paid for c.
+		-Netbeans	paid...
+		etc.
+
+
+HelloWorld/First Program
+================================
+#	- single line comment 
+''	- string
+" " 	- string 
+'''
+	- multiple line comment
+'''
+
+"""
+	- multiple line comment 
+"""
+()	- tuple, function 
+[]	- list (array)
+{}	- dict, set 
+
+:	- body of class, function , condition , loop etc.
+
+Note :
+	-Python does allocate memory automatically
+		a = 1 # int
+		a ='skjhss' # str 
+	
+
+Variable and Data Type
+==============================
+variable : is temp. memory where data can be stored /saved
+	correct syntax:
+		a =1
+		a1 =33
+		a,b =444,3
+		a=b=333
+		a_b	=4334
+		
+
+	incorrect sytnax:
+		1a =11
+		a b  =444
+		a+b =4444
+		
+Data Type:
+---------------
+int 		: a =11
+float		: b =444.3
+str		: s ='skshs'
+		or s ="skgsgsg12"
+
+bool		: b =True
+list		: a =[111,22,3,4,'skjsggss']
+		-list is mutable/changable 
+tuple		: t =(1111,22,2,3,'fff')
+		-tuple is imutable/read only 
+
+dict		: key:value
+		d ={'a':'alpha',2:'two','x':33344,101:[111,222,333,4]}
+set 		: 
+		s = {'dove','iphone','dove'}
+		-set contains unieque value
+		-one dove will be removed automatically 
+		
+
+type(data/var)	--return data type 
+
+Input/Output and other functions
+=====================================
+input()		: read data from user/console 
+		-default data type is string 
+
+print()		: show/print data 
+
+type()		: return data type 
+
+int()		 : convert string to int 
+
+etc.
+
+
+Operator
+==================
+Arithmetic:
+	+
+	-
+	*		2*3 =6
+	**		2**3 = 8  (2^3)
+	/		85/10  = 8.5
+	//		85//10  = 8
+	%		85%10 = 5
+
+Conditional:
+	>
+	>=
+	<
+	<=
+	==
+	!=
+	in
+	not in 
+
+Logical:
+	and 
+	or 
+Assignment Operator:
+	=		a =1
+	+=		a +=2   or a= a+2
+	-=
+	*=		
+	
+Condition
+==============================
+*Python doesn't support switch case 
+-if condition 
+
+
+	
+
+	
